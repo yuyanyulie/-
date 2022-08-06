@@ -1,6 +1,6 @@
 #  📖 阅读｜书源分享
 
-###  ♯ [点击加入QQ频道【一程书友会】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5a7r2&businessType=9&from=246610&biz=ka)
+###  #⃣️ [点击加入QQ频道【一程书友会】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5a7r2&businessType=9&from=246610&biz=ka)
 
 ##  📢 更新日志
 
@@ -67,7 +67,7 @@
 
 3. 在“我的”一栏选择“书源管理”
 
-4. 点击右上角“三点”
+4. 点击右上角“┇”
 
 5. 选择“网络导入”
 
@@ -81,9 +81,9 @@
 
 2. 打开阅读APP
 
-3. 在“订阅”一栏选择右上角“设置”图标
+3. 在“订阅”一栏选择右上角“⚙️”图标
 
-4. 点击右上角“三点”
+4. 点击右上角“┇”
 
 5. 选择“网络导入”
 
