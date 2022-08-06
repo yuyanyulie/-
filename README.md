@@ -1,8 +1,8 @@
 #  📖 阅读｜书源分享
 
-###  #⃣️ [点击加入QQ频道【一程书友会】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5a7r2&businessType=9&from=246610&biz=ka)
+###  ♯ [点击加入QQ频道【一程书友会】](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5a7r2&businessType=9&from=246610&biz=ka)
 
-##  📢 更新日志
+##  📢 更新日记
 
 - 2022年8月份更新
 
@@ -91,7 +91,7 @@
 
 7. 弹出订阅源确定对话框，如果显示未全选，请先全选再点确定。
 
-##   关于
+##  🖇️ 关于
 
 - [开源阅读 - 阅读APP](https://www.coolapk.com/apk/io.legado.app.release)
 
