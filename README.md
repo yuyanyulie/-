@@ -37,7 +37,7 @@ https://code.gitlink.org.cn/yi-c/yd/raw/branch/master/sy.json
 
 - 订阅源合集
 
-- 更新时间：12月31日（星期六）
+- 更新时间：01月01日（星期日）
 
 - 网络导入链接
 
