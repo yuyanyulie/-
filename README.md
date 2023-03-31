@@ -17,7 +17,7 @@
 - 网络导入链接
 
 ```
-https://code.gitlink.org.cn/yi-c/yd/raw/branch/master/sy.json
+https://www.gitlink.org.cn/api/yi-c/yd/raw?filepath=sy.json
 ```
 
 
@@ -30,7 +30,7 @@ https://code.gitlink.org.cn/yi-c/yd/raw/branch/master/sy.json
 - 网络导入链接
 
 ```
-https://code.gitlink.org.cn/yi-c/yd/raw/branch/master/dy.json
+https://www.gitlink.org.cn/api/yi-c/yd/raw?filepath=dy.json
 ```
 
 ##  💠 导入方案
