@@ -15,7 +15,7 @@
 ```
 https://www.gitlink.org.cn/api/yi-c/yd/raw/sy.json?ref=master
 ```
-- [一键导入](yuedu://booksource/importonline?src=https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/sy.json)
+- [一键导入](http://www.baidu.com/wd=yuedu://booksource/importonline?src=https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/sy.json)
 
 ##  🗂️ 订阅源
 
