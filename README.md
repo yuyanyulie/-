@@ -23,6 +23,9 @@
 ```
 https://www.gitlink.org.cn/api/yi-c/yd/raw/sy.json?ref=master
 ```
+```
+https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/sy.json
+```
 
 ##  🗂️ 订阅源
 
@@ -34,6 +37,9 @@ https://www.gitlink.org.cn/api/yi-c/yd/raw/sy.json?ref=master
 
 ```
 https://www.gitlink.org.cn/api/yi-c/yd/raw/dy.json?ref=master
+```
+```
+https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/dy.json
 ```
 
 ##  💠 导入方案
