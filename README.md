@@ -21,7 +21,7 @@
 - 网络导入链接
 
 ```
-https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/sy.json
+https://www.gitlink.org.cn/api/yi-c/yd/raw/sy.json?ref=master
 ```
 
 ##  🗂️ 订阅源
@@ -33,7 +33,7 @@ https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/sy.json
 - 网络导入链接
 
 ```
-https://code.gitlink.org.cn/api/v1/repos/yi-c/yd/raw/dy.json
+https://www.gitlink.org.cn/api/yi-c/yd/raw/dy.json?ref=master
 ```
 
 ##  💠 导入方案
